@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">SKYROOM</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_sky">Tambah sky</string>
+    <string name="nama_rasibintang">Nama rasi bintang</string>
+    <string name="daerah_langitdifoto">Daerah langit difoto</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="hapus_data">Yakin ingin menghapus langit ini?</string>
+    <string name="masuk_dengangoogle">Masuk dengan google</string>
+    <string name="listkosong">Belum ada data.</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="list">Tampilan list</string>
+    <string name="desc">Galeri Langit dan Rasi Bintang \nSimpan foto Langit dan Rasi bintang terindahmu disini.</string>
 </resources>
